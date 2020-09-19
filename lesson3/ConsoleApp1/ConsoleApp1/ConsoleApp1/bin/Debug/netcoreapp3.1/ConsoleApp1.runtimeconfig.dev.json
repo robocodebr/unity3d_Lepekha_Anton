@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Robocode\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Robocode\\.nuget\\packages"
+    ]
+  }
+}
