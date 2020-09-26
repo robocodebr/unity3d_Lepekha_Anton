@@ -1,0 +1,13 @@
+C:\Users\Robocode\Documents\unity3d_Lepekha_Anton\lesson4\ConsoleApp1\Lesson4\Lesson4\obj\Debug\netcoreapp3.1\Lesson4.csprojAssemblyReference.cache
+C:\Users\Robocode\Documents\unity3d_Lepekha_Anton\lesson4\ConsoleApp1\Lesson4\Lesson4\obj\Debug\netcoreapp3.1\Lesson4.AssemblyInfoInputs.cache
+C:\Users\Robocode\Documents\unity3d_Lepekha_Anton\lesson4\ConsoleApp1\Lesson4\Lesson4\obj\Debug\netcoreapp3.1\Lesson4.AssemblyInfo.cs
+C:\Users\Robocode\Documents\unity3d_Lepekha_Anton\lesson4\ConsoleApp1\Lesson4\Lesson4\obj\Debug\netcoreapp3.1\Lesson4.csproj.CoreCompileInputs.cache
+C:\Users\Robocode\Documents\unity3d_Lepekha_Anton\lesson4\ConsoleApp1\Lesson4\Lesson4\bin\Debug\netcoreapp3.1\Lesson4.exe
+C:\Users\Robocode\Documents\unity3d_Lepekha_Anton\lesson4\ConsoleApp1\Lesson4\Lesson4\bin\Debug\netcoreapp3.1\Lesson4.deps.json
+C:\Users\Robocode\Documents\unity3d_Lepekha_Anton\lesson4\ConsoleApp1\Lesson4\Lesson4\bin\Debug\netcoreapp3.1\Lesson4.runtimeconfig.json
+C:\Users\Robocode\Documents\unity3d_Lepekha_Anton\lesson4\ConsoleApp1\Lesson4\Lesson4\bin\Debug\netcoreapp3.1\Lesson4.runtimeconfig.dev.json
+C:\Users\Robocode\Documents\unity3d_Lepekha_Anton\lesson4\ConsoleApp1\Lesson4\Lesson4\bin\Debug\netcoreapp3.1\Lesson4.dll
+C:\Users\Robocode\Documents\unity3d_Lepekha_Anton\lesson4\ConsoleApp1\Lesson4\Lesson4\bin\Debug\netcoreapp3.1\Lesson4.pdb
+C:\Users\Robocode\Documents\unity3d_Lepekha_Anton\lesson4\ConsoleApp1\Lesson4\Lesson4\obj\Debug\netcoreapp3.1\Lesson4.dll
+C:\Users\Robocode\Documents\unity3d_Lepekha_Anton\lesson4\ConsoleApp1\Lesson4\Lesson4\obj\Debug\netcoreapp3.1\Lesson4.pdb
+C:\Users\Robocode\Documents\unity3d_Lepekha_Anton\lesson4\ConsoleApp1\Lesson4\Lesson4\obj\Debug\netcoreapp3.1\Lesson4.genruntimeconfig.cache
