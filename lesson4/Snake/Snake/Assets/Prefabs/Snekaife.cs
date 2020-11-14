@@ -1,5 +1,4 @@
 ﻿
-
 using System.Collections;
 using System.Collections.Generic;
 using System.Collections.Specialized;
@@ -41,7 +40,8 @@ public class Snekaife : MonoBehaviour
         {
             Rigidbody componentRigid = GetComponent<Rigidbody>();
             componentRigid.velocity = new Vector3(direction.x * speed, direction.y * speed, 0);
-            if (SnakeTail.Count < 0)
+            
+            if (SnakeTail.Count > 0)
             {
                 SnakeTail[0].transform.position = transform.position;
 
@@ -49,12 +49,25 @@ public class Snekaife : MonoBehaviour
                 for (int i = SnakeTail.Count - 1; i > 0; i--)
                 {
                     SnakeTail[i].transform.position = SnakeTail[i - 1].transform.position;
+               
                 }
             }
 
         }
     }
+    public void DestroySnake()
+    {
+        foreach (var tall in SnakeTail) ;
+        {
+            direction = new Vector2(0, 0);
+            foreach(var tall in SnakeTail)
+            {
+                Destroy(tall);
+            }
+            Destroy(gameObject);
+        }
 
+    }
     void Start()
     {
         for (int i = 0; i < 5; i++)
@@ -75,5 +88,5 @@ public class Snekaife : MonoBehaviour
 
     }
 }
-
+                            
 

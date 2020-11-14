@@ -13,6 +13,7 @@ GameObject:
   - component: {fileID: 738970233974954992}
   - component: {fileID: 6484729807970889212}
   - component: {fileID: 2049175978275692372}
+  - component: {fileID: -8083676375973388469}
   m_Layer: 0
   m_Name: DeathWall
   m_TagString: Untagged
@@ -28,7 +29,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 5845763016485711954}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -4.463968, y: -1.8393115, z: -44157.812}
+  m_LocalPosition: {x: -4.463968, y: -1.8393115, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -112,3 +113,15 @@ Rigidbody:
   m_Interpolate: 0
   m_Constraints: 126
   m_CollisionDetection: 0
+--- !u!114 &-8083676375973388469
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5845763016485711954}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: be636b91b450f494f9081630ae6bafe1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
